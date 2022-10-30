@@ -28,7 +28,7 @@ export default function Home() {
           <h2 className='text-5xl py-2 text-teal-600 font-medium md:text-6xl'>Achille Cannavale</h2>
           <h3 className='tet-2xl py-2 md:text-3xl dark:text-gray-300'>CS Engineering Student | Developer</h3>
           <p className='text-md py-5 leading-8 text-gray-800 md:text-xl max-w-lg mx-auto dark:text-gray-100'>
-          I'm a Computer Science Engineering student based in Italy. I have a profound interest in Full Stack Development, Machine and Deep Learning, and Cyber Security.
+          I&aposm a Computer Science Engineering student based in Italy. I have a profound interest in Full Stack Development, Machine and Deep Learning, and Cyber Security.
           </p>
         </div>
         <div className='text-5xl flex justify-center gap-16 py-3 text-gray-600'>
